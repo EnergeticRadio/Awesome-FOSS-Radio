@@ -18,13 +18,14 @@ A curated collection of Free and Open Source software for broadcast and internet
 
 ## Contents
 
-- [Broadcast Automation](#Broadcast-Automation)
+- [Broadcast automation](#Broadcast-automation)
 - [DAWs](#DAWs)
-- [Stream Encoders](#Stream-Encoders)
+- [Stream encoders](#Stream-encoders)
+- [Streaming servers](#Streaming-servers)
 
 <!-- CONTENT -->
 
-## Broadcast Automation
+## Broadcast automation
 
 - [Rivendell](http://rivendellaudio.org/) - Rivendell is a complete radio broadcast automation solution aimed at professional radio broadcasters.
 - [Airtime](https://github.com/sourcefabric/airtime) - Airtime is a web-based automation system.
@@ -35,7 +36,7 @@ A curated collection of Free and Open Source software for broadcast and internet
 - [Audacity](https://www.audacityteam.org/) - Audacity is a digital audio editor and recording application.
 - [Ardour](https://www.ardour.org/) - Ardour is a hard disk recorder and digital audio workstation suitable for professional use.
 
-## Stream Encoders
+## Stream encoders
 
 - [Darkice](http://www.darkice.org/) - DarkIce is a live audio streamer compatible with Icecast, and Shoutcast.
 - [Liquidsoap](https://www.liquidsoap.info/) - Liquidsoap is a powerful and flexible language for describing audio and video streams.

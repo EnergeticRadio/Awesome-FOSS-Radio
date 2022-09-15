@@ -6,7 +6,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ALWAYS create a new branch with your proposed changes. Thank you!
 
-## Adding an new Item
+## Adding a new Item
 
 - Try to fit your item into an existing sections. [Open a suggestion](https://github.com/EnergeticRadio/Awesome-FOSS-Radio/issues/new) to start as discussion about any new sections.
 - Add a new item to the bottom of the list in a section.
