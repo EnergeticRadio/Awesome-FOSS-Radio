@@ -16,9 +16,9 @@ A curated collection of Free and Open Source software for broadcast and internet
 
 ## Contents
 
-- [Broadcast Automation](#Broadcast Automation)
+- [Broadcast Automation](#Broadcast-Automation)
 - [DAWs](#DAWs)
-- [Stream Encoders](#Stream Encoders)
+- [Stream Encoders](#Stream-Encoders)
 
 <!-- CONTENT -->
 
