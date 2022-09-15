@@ -41,6 +41,10 @@ A curated collection of Free and Open Source software for broadcast and internet
 - [Liquidsoap](https://www.liquidsoap.info/) - Liquidsoap is a powerful and flexible language for describing audio and video streams.
 - [GlassCoder](https://github.com/ElvishArtisan/GlassCoder) - GlassCoder is a versatile encoder for IceCast, Shoutcast and HLS.
 
+## Streaming servers
+- [Icecast](https://icecast.org/) - Icecast is widely used and supported streaming media server.
+- [Icecast-kh](https://karlheyes.github.io/) - Icecast-kh is a fork of icecast with added features.
+
 <!-- END CONTENT -->
 
 ## Contributing
