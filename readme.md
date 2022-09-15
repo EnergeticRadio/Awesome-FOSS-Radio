@@ -23,7 +23,7 @@ A curated collection of Free and Open Source software for broadcast and internet
 - [Stream encoders](#Stream-encoders)
 - [Streaming servers](#Streaming-servers)
 
-<!-- CONTENT -->
+<!-- START content -->
 
 ## Broadcast automation
 
@@ -46,7 +46,7 @@ A curated collection of Free and Open Source software for broadcast and internet
 - [Icecast](https://icecast.org/) - Icecast is widely used and supported streaming media server.
 - [Icecast-kh](https://karlheyes.github.io/) - Icecast-kh is a fork of icecast with added features.
 
-<!-- END CONTENT -->
+<!-- END content -->
 
 ## Contributing
 
