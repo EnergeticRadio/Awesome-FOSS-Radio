@@ -30,6 +30,7 @@ A curated collection of Free and Open Source software for broadcast and internet
 - [Rivendell](http://rivendellaudio.org/) - Rivendell is a complete radio broadcast automation solution aimed at professional radio broadcasters.
 - [Airtime](https://github.com/sourcefabric/airtime) - Airtime is a web-based automation system.
 - [ARAS](https://aras.sourceforge.io/) - ARAS is a free broadcast automation system designed to be reliable and flexible.
+- [StudioFire](https://github.com/veteranop/StudioFire) - MIT-licensed Windows radio automation: one installer, no Docker, playlist scheduling, Icecast/RTP, and zero-dead-air playout.
 
 ## DAWs
 
